@@ -18,4 +18,4 @@ if __name__ == '__main__':
 
     # app.run()
     apps.run(host='0.0.0.0', port=1314);
-    #此处为全IP，端口为1314
+    #此处为全IP，端口为1314,
