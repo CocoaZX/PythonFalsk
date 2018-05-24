@@ -7,7 +7,7 @@ app = Flask(__name__)
 
 @app.route('/', methods=['GET', 'POST'])
 def home():
-    return '<h1>Hossme</h1>'
+    return '<h1>Home</h1>'
 
 
 @app.route('/signin', methods=['GET'])
