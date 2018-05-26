@@ -4,7 +4,7 @@
 
 
 
-def consumer(name):
+def consumer(name: str):
     print("要开始啃骨头了...")
     while True:
         print("\033[31;1m[consumer] %s\033[0m " % name)
@@ -30,5 +30,6 @@ if __name__ == '__main__':
     producer(con1, con2)
 
 #从main函数进入。执行consumer函数，到yield跳出，协程会保存寄存器的状态，接着执行consumer函数，再次跳出执行producer函数，
-#producer函数中，send启用生成器，第一次必须传None，不会跳入。while循环中send方法会跳回之前yield跳出的地方
+#producer函数中，send启用生成器，第一次必须传None，不会跳入。while循环中
+# send方法会跳回之前yield跳出的地方
 #
