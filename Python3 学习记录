@@ -1,3 +1,5 @@
+
+#参数
 Python中参数的位置是死的，这点和swift不同。相通点为都有必选参数，默认参数。
 参数遵循必选参数、默认参数、可变参数、关键字参数和命名关键字参数、
 必选参数和默认参数和swift用法相同，
@@ -5,5 +7,41 @@ Python中参数的位置是死的，这点和swift不同。相通点为都有必
 关键字参数   在函数定义时加**，这些可变参数在函数调用时自动组装为一个tuple。而关键字参数允许你传入0个或任意个含参数名的参数，这些关键字参数在函数内部自动组装为一个dict，所以不会对传入的参数有修改。
 命名关键字参数  定义参数时加*，前缀。如果要限制关键字参数的名字，就可以用命名关键字参数，例如，只接收city和job作为关键字参数。这种方式定义的函数如下：
 def person(name, age,*, city, job):
+
+#代码规范
+任何模块代码的第一个字符串都被视为模块的文档注释
+
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+' a test module '
+
+__author__ = 'Michael Liao'
+
+import sys
+
+def test():
+    args = sys.argv
+    if len(args)==1:
+        print('Hello, world!')
+    elif len(args)==2:
+        print('Hello, %s!' % args[1])
+    else:
+        print('Too many arguments!')
+
+if __name__=='__main__':
+    test()
+
+    第1行和第2行是标准注释，第1行注释可以让这个hello.py文件直接在Unix/Linux/Mac上运行，第2行注释表示.py文件本身使用标准UTF-8编码；
+
+第4行是一个字符串，表示模块的文档注释，任何模块代码的第一个字符串都被视为模块的文档注释；
+
+第6行使用__author__变量把作者写进去，这样当你公开源代码后别人就可以瞻仰你的大名；
+
+以上就是Python模块的标准文件模板，当然也可以全部删掉不写，但是，按标准办事肯定没错。
+
+后面开始就是真正的代码部分。
+
+/*摘自廖雪峰Python https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000/001431845183474e20ee7e7828b47f7b7607f2dc1e90dbb000*/
 
 
