@@ -1,0 +1,5 @@
+flask
+
+url_for('static',fllename= 'style.css')
+
+生成的路径为"/static/style.css"
