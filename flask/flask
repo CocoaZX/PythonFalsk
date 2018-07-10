@@ -3,3 +3,6 @@ flask
 url_for('static',fllename= 'style.css')
 
 生成的路径为"/static/style.css"
+
+
+Jinja2 是flask的依赖模块，利用模块可以很轻松的写HTML文件。或者其他XML等文件
