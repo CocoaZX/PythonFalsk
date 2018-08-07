@@ -8,7 +8,7 @@ apps = Flask(__name__)
 @apps.route('/')
 # 捕捉url。此处为url无后缀
 def hello_world():
-    return '<h1> Love U Ma!</h1>'
+    return '<h1> k</h1>'
     # 返回header，只能有一个header
 
 #确认是运行__main__函数才run，而不是导入的时候
