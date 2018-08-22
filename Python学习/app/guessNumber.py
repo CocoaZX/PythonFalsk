@@ -1,6 +1,8 @@
 # This is a guess the number game.
 import random
 import pprint
+import os
+
 secretNumber = random.randint(1, 20)
 print('I am thinking of a number between 1 and 20.')
 # Ask the player to guess 6 times.
@@ -26,3 +28,5 @@ for character in message:
     count.setdefault(character, 0)
     count[character] = count[character] + 1
 pprint.pprint(count)
+
+# print(os.getcwd())
