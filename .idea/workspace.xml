@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df27b863-579a-48a0-b4c3-f060a86f0aee" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Python学习/app/webBeautifulSoup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python学习/app/Thread.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python学习/抓取Web内容" beforeDir="false" afterPath="$PROJECT_DIR$/Python学习/抓取Web内容" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python学习/app/falsk.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python学习/app/falsk.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python学习/app/webBeautifulSoup.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python学习/app/webBeautifulSoup.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,9 +16,12 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/PythonFalskGit$falsk.coverage" NAME="falsk Coverage Results" MODIFIED="1534819594322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonFalskGit$webBeautifulSoup.coverage" NAME="webBeautifulSoup Coverage Results" MODIFIED="1535014935770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python学习/app" />
+    <SUITE FILE_PATH="coverage/PythonFalskGit$webBeautifulSoup.coverage" NAME="webBeautifulSoup Coverage Results" MODIFIED="1535016738691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python学习/app" />
+    <SUITE FILE_PATH="coverage/PythonFalskGit$2048auto.coverage" NAME="2048auto Coverage Results" MODIFIED="1535355307733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps" />
+    <SUITE FILE_PATH="coverage/PythonFalskGit$Thread.coverage" NAME="Thread Coverage Results" MODIFIED="1535356797901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python学习/app" />
     <SUITE FILE_PATH="coverage/PythonFalskGit$yieldTest.coverage" NAME="yieldTest Coverage Results" MODIFIED="1534821118237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python学习/app" />
     <SUITE FILE_PATH="coverage/PythonFalskGit$mapIt.coverage" NAME="mapIt Coverage Results" MODIFIED="1535013927721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python学习/app" />
+    <SUITE FILE_PATH="coverage/PythonFalskGit$falsk__1_.coverage" NAME="falsk (1) Coverage Results" MODIFIED="1535341158200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python学习/app" />
     <SUITE FILE_PATH="coverage/PythonFalskGit$randomQuizGenerator.coverage" NAME="randomQuizGenerator Coverage Results" MODIFIED="1534907717783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python学习/app" />
     <SUITE FILE_PATH="coverage/PythonFalskGit$PythonFalskGit.coverage" NAME="PythonFalskGit Coverage Results" MODIFIED="1527152902980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
@@ -26,70 +30,98 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="capitalsquiz29.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python学习/app/capitalsquiz29.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="抓取Web内容" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python学习/抓取Web内容">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="Web知识" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python学习/Web知识">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file leaf-file-name="Python3 学习记录" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python学习/Python3 学习记录">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret lean-forward="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="APITest.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python学习/app/APITest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-381" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="randomQuizGenerator.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python学习/app/randomQuizGenerator.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file leaf-file-name="mapIt.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python学习/app/mapIt.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+            <state relative-caret-position="280">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="webBeautifulSoup.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Python学习/app/webBeautifulSoup.py">
+      <file leaf-file-name="Thread.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Python学习/app/Thread.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+            <state relative-caret-position="441">
+              <caret line="36" column="12" lean-forward="true" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="12" />
+              <folding>
+                <element signature="e#0#16#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/venv/PythonProjects/lib/python3.6/site-packages/bs4/__init__.py">
+      <file leaf-file-name="pydevd.py" pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="92" column="31" lean-forward="true" selection-start-line="92" selection-start-column="31" selection-end-line="92" selection-end-column="31" />
+            <state relative-caret-position="160">
+              <caret line="1662" column="26" lean-forward="true" selection-start-line="1662" selection-start-column="26" selection-end-line="1662" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_pydev_execfile.py" pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <file leaf-file-name="time.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.1/python_stubs/1783913037/time.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="96" column="4" selection-start-line="96" selection-start-column="4" selection-end-line="96" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="falsk.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python学习/app/falsk.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
+              <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="webbrowser.py" pinned="false" current-in-tab="false">
-        <entry file="file:///usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/lib/python3.6/webbrowser.py">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file leaf-file-name="webBeautifulSoup.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python学习/app/webBeautifulSoup.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+            </state>
+          </provider>
         </entry>
       </file>
-      <file leaf-file-name="Mako0.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Python学习/app/Mako0.py">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file leaf-file-name="2048auto.py" pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/2048auto.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="159">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
+              <folding>
+                <element signature="e#5#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -120,6 +152,9 @@
         <option value="$PROJECT_DIR$/Python学习/app/mapLt.py" />
         <option value="$PROJECT_DIR$/Python学习/app/mapIt.py" />
         <option value="$PROJECT_DIR$/Python学习/app/webBeautifulSoup.py" />
+        <option value="$PROJECT_DIR$/Python学习/app/falsk.py" />
+        <option value="$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/2048auto.py" />
+        <option value="$PROJECT_DIR$/Python学习/app/Thread.py" />
       </list>
     </option>
   </component>
@@ -138,10 +173,10 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="19" />
-    <option name="y" value="52" />
-    <option name="width" value="1280" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="47" />
+    <option name="y" value="23" />
+    <option name="width" value="1363" />
     <option name="height" value="729" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -224,8 +259,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.webBeautifulSoup">
-    <configuration name="falsk" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Thread">
+    <configuration name="2048auto" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonFalskGit" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -233,12 +268,50 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/2048auto.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Thread" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonFalskGit" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python学习/app" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/falsk.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python学习/app/Thread.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="falsk (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonFalskGit" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python学习/app" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python学习/app/falsk.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -263,25 +336,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="randomQuizGenerator" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonFalskGit" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python学习/app" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python学习/app/randomQuizGenerator.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <configuration name="webBeautifulSoup" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonFalskGit" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -296,25 +350,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python学习/app/webBeautifulSoup.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="yieldTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonFalskGit" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python学习/app" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python学习/app/guessNumber.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -336,19 +371,19 @@
     </configuration>
     <list>
       <item itemvalue="Flask server.PythonFalskGit" />
-      <item itemvalue="Python.yieldTest" />
-      <item itemvalue="Python.falsk" />
-      <item itemvalue="Python.randomQuizGenerator" />
       <item itemvalue="Python.mapIt" />
       <item itemvalue="Python.webBeautifulSoup" />
+      <item itemvalue="Python.falsk (1)" />
+      <item itemvalue="Python.2048auto" />
+      <item itemvalue="Python.Thread" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Thread" />
+        <item itemvalue="Python.2048auto" />
+        <item itemvalue="Python.falsk (1)" />
         <item itemvalue="Python.webBeautifulSoup" />
         <item itemvalue="Python.mapIt" />
-        <item itemvalue="Python.randomQuizGenerator" />
-        <item itemvalue="Python.yieldTest" />
-        <item itemvalue="Python.falsk" />
       </list>
     </recent_temporary>
   </component>
@@ -366,7 +401,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="34" y="23" width="1211" height="678" extended-state="0" />
+    <frame x="47" y="23" width="1363" height="729" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -374,15 +409,15 @@
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Python Console" order="10" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.44406196" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.28481013" />
       <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.2444261" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24431401" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.5886403" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5221519" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -393,7 +428,7 @@
     </layout>
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2444261" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24431401" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -402,10 +437,10 @@
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.44406196" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.443038" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Python Console" order="10" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.5886403" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.5221519" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
@@ -423,35 +458,17 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Python学习/app/webBeautifulSoup.py</url>
-          <line>3</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-      <option name="time" value="2" />
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="8" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Python学习/app/capitalsquiz29.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python学习/app/capitalsquiz_answers5.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python学习/app/capitalsquiz_answers2.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python学习/app/capitalsquiz35.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python学习/app/capitalsquiz2.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python学习/app/capitalsquiz1.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Python学习/app/capitalsquiz4.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -482,9 +499,6 @@
     <entry file="file://$PROJECT_DIR$/falsk.py" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.css" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/APITest" />
-    <entry file="file://$PROJECT_DIR$/Python学习/app/falsk.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Python学习/app/guessNumber.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="186">
@@ -504,9 +518,6 @@
     <entry file="file://$PROJECT_DIR$/Python学习/app/capitalsquiz7.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python学习/app/APITest.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Python学习/app/capitalsquiz_answers5.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -515,13 +526,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Python学习/app/capitalsquiz35.txt">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python学习/app/randomQuizGenerator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="12" column="38" lean-forward="true" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Python学习/app/capitalsquiz29.txt">
       <provider selected="true" editor-type-id="text-editor" />
@@ -532,40 +536,111 @@
     <entry file="file://$PROJECT_DIR$/Python学习/Web知识">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python学习/Python3 学习记录">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Python学习/app/Mako0.py">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/venv/PythonProjects/lib/python3.6/site-packages/werkzeug/serving.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="596">
+          <caret line="793" column="67" selection-start-line="793" selection-start-column="67" selection-end-line="793" selection-end-column="67" />
+        </state>
+      </provider>
     </entry>
     <entry file="file:///usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/lib/python3.6/webbrowser.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python学习/app/mapIt.py">
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/2048auto.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="159">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="e#5#35#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/venv/PythonProjects/lib/python3.6/site-packages/bs4/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="92" column="31" lean-forward="true" selection-start-line="92" selection-start-column="31" selection-end-line="92" selection-end-column="31" />
+        <state relative-caret-position="18">
+          <caret line="92" column="31" selection-start-line="92" selection-start-column="31" selection-end-line="92" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/venv/PythonProjects/lib/python3.6/site-packages/flask/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8846">
+          <caret line="2308" selection-start-line="2308" selection-end-line="2308" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python学习/Python3 学习记录">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python学习/app/APITest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-381" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python学习/app/mapIt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="1662" column="26" lean-forward="true" selection-start-line="1662" selection-start-column="26" selection-end-line="1662" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python学习/app/falsk.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.1/python_stubs/1783913037/time.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="96" column="4" selection-start-line="96" selection-start-column="4" selection-end-line="96" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Python学习/app/webBeautifulSoup.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        <state relative-caret-position="126">
+          <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python学习/app/randomQuizGenerator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python学习/app/Thread.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="36" column="12" lean-forward="true" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
