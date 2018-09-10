@@ -1,0 +1,12 @@
+
+#python3 , sql config
+
+HOSTNAME = 'localhost'
+DATABASE = 'rootFlask'
+USERNAME = 'web'
+PASSWORD = 'web'
+SQLALCHEMY_DATABASE_URI = 'mysql://{}:{}@{}/{}'.format(USERNAME,PASSWORD,HOSTNAME,DATABASE)
+SQLALCHEMY_COMMIT_ON_TEARDOWN = True
+DEBUG = True
+
+SQLALCHEMY_TRACK_MODIFICATIONS = False
