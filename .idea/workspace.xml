@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df27b863-579a-48a0-b4c3-f060a86f0aee" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Python学习/app/SQL/consts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python学习/app/SQL/ext.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/PythonFalskGit.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonFalskGit.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python学习/app/example.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python学习/app/falsk.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python学习/app/falsk.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python学习/app/user.py" beforeDir="false" />
-    </list>
+    <list default="true" id="df27b863-579a-48a0-b4c3-f060a86f0aee" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,7 +15,7 @@
     <SUITE FILE_PATH="coverage/PythonFalskGit$falsk__1_.coverage" NAME="falsk (1) Coverage Results" MODIFIED="1536570623097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python学习/app" />
     <SUITE FILE_PATH="coverage/PythonFalskGit$randomQuizGenerator.coverage" NAME="randomQuizGenerator Coverage Results" MODIFIED="1534907717783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python学习/app" />
     <SUITE FILE_PATH="coverage/PythonFalskGit$PythonFalskGit.coverage" NAME="PythonFalskGit Coverage Results" MODIFIED="1527152902980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/PythonFalskGit$Flask__Python_app_sqlTest_py_.coverage" NAME="Flask (Python学习/app/sqlTest.py) Coverage Results" MODIFIED="1536570723386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/PythonFalskGit$Flask__Python_app_sqlTest_py_.coverage" NAME="Flask (Python学习/app/sqlTest.py) Coverage Results" MODIFIED="1536572131722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/PythonFalskGit$user__1_.coverage" NAME="user (1) Coverage Results" MODIFIED="1535683906802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python学习/app/SQL" />
     <SUITE FILE_PATH="coverage/PythonFalskGit$falsk.coverage" NAME="falsk Coverage Results" MODIFIED="1534819594322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonFalskGit$webBeautifulSoup.coverage" NAME="webBeautifulSoup Coverage Results" MODIFIED="1535016738691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python学习/app" />
@@ -62,22 +54,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="codecs.py" pinned="false" current-in-tab="false">
-        <entry file="file:///usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/lib/python3.6/codecs.py">
+      <file leaf-file-name="falsk.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python学习/app/falsk.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5544">
-              <caret line="308" selection-start-line="308" selection-end-line="308" />
+            <state relative-caret-position="144">
+              <caret line="8" column="94" lean-forward="true" selection-start-line="8" selection-end-line="8" selection-end-column="94" />
+              <folding>
+                <element signature="e#22#44#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="falsk.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Python学习/app/falsk.py">
+      <file leaf-file-name="sqlTest.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Python学习/app/sqlTest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="378">
+              <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
               <folding>
-                <element signature="e#22#44#0" expanded="true" />
+                <element signature="e#0#23#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -163,6 +158,7 @@
       <find>SQLALCHEMY_BINDS</find>
       <find>SQLALCHEMY_DATABASE_URI</find>
       <find>SQLALCHEMY_COMMIT_ON_TEARDOWN</find>
+      <find>Manager</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -187,6 +183,7 @@
         <option value="$PROJECT_DIR$/Python学习/app/SQL/users.py" />
         <option value="$PROJECT_DIR$/Python学习/app/SQL/consts.py" />
         <option value="$PROJECT_DIR$/Python学习/app/falsk.py" />
+        <option value="$PROJECT_DIR$/Python学习/app/sqlTest.py" />
       </list>
     </option>
   </component>
@@ -457,15 +454,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1920" y="-159" width="1920" height="1080" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49946752" weight="0.3299389" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.27635783" side_tool="true" visible="true" weight="0.3431772" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49946752" weight="0.3299389" />
       <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.49946752" weight="0.3299389" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.7236422" visible="true" weight="0.3431772" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7236422" visible="true" weight="0.3431772" />
       <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4968051" weight="0.23523422" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15069222" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15069222" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" weight="0.32960597" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -521,7 +519,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/falsk.py" />
     <entry file="file://$PROJECT_DIR$/yieldTest.py" />
     <entry file="file://$PROJECT_DIR$/falsk.py" />
     <entry file="file://$PROJECT_DIR$/yieldTest.py" />
@@ -713,10 +710,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Python学习/app/falsk.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="144">
+          <caret line="8" column="94" lean-forward="true" selection-start-line="8" selection-end-line="8" selection-end-column="94" />
           <folding>
             <element signature="e#22#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python学习/app/sqlTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
           </folding>
         </state>
       </provider>
