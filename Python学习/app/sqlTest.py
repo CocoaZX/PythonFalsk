@@ -1,7 +1,7 @@
 from flask import Flask
-from flask_sqlalchemy import SQLAlchemy
-from sqlalchemy import create_engine
-# import MySQLdb
+# from flask_sqlalchemy import SQLAlchemy
+# from sqlalchemy import create_engine
+import MySQLdb
 
 
 
@@ -9,12 +9,14 @@ from sqlalchemy import create_engine
 # -*- coding:utf-8 -*-# db_test.pyfrom flask import Flaskfrom flask_sqlalchemy import SQLAlchemyimport config
 
 app = Flask(__name__)
-app.config.from_object('config')
-db = SQLAlchemy(app)
+# db = SQLAlchemy(app)
+#
+# db.create_all()
 
-db.create_all()@app.route('/')
-    def index():
+@app.route('/')
+def index():
     return 'index'
+
 
 
 
