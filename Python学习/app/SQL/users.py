@@ -8,5 +8,8 @@ class User(db.Model):
     def __init__(self,name):
         self.name = name
 
+    #重构输出控制台方法
+    def __repr__(self):
+        return '<User %r>' % self.name
 
 
