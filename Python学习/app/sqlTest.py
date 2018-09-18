@@ -1,37 +1,4 @@
-from flask import Flask
 import pymysql
-
-#
-# app = Flask(__name__)
-#
-# app.config['SQLALCHEMY_DATABASE_URI'] = 'mysql://root:20Miqianlan@47.106.99.78:3306/r?charset=utf8mb4'
-# app.config['SQLALCHEMY_COMMIT_ON_TEARDOWN'] = True
-#
-#
-# @app.route('/')
-# def index():
-#     return 'index'
-#
-
-
-# ORM方法
-# db = SQLAlchemy(app)
-# with app.app_context():
-#     db.drop_all()
-#     db.create_all()
-#
-#
-# @app.route('/users',methods=['POST'])
-# def users():
-#     username = request.from_values('name')
-#     user = User.__init__(username)
-#     print('User ID:{}'.format(user.id))#还没有创建id都是none
-#     db.session.add(user)
-#     db.session.commit()
-
-# if __name__ == '__main__':
-#     app.run()
-
 
 #手写SQL方法
 # #打开数据库
@@ -59,6 +26,7 @@ with db as cur:
     rows = cur.fetchall()
     for row in row:
         print(row)
+
 # sql_insert = """insert into user(id,username,password) values(4,'liu','1234')"""
 #
 # try:
@@ -70,3 +38,4 @@ with db as cur:
 #     db.rollback()
 # finally:
 #     db.close()
+
