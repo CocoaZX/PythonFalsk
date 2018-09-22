@@ -29,6 +29,10 @@ threads.append(t1)
 t2 = threading.Thread(target=move,args=(u'阿凡达',))
 threads.append(t2)
 
+
+def build(type, value):
+    return type(value)
+
 if __name__ == '__main__':
     for t in threads:
         t.setDaemon(True)

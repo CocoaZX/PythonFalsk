@@ -32,6 +32,11 @@ def users():
     db.session.commit()
 
 
+@app.route('/people')
+def people():
+    name = request.args.get('name')
+
+
 #确认是运行__main__函数才run，而不是导入的时候
 if __name__ == '__main__':
     app.debug = True;
