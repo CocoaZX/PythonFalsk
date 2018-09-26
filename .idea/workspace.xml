@@ -2,10 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df27b863-579a-48a0-b4c3-f060a86f0aee" name="Default" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/Python学习/app/JinjaModel.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Python学习/app/hello.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Python学习/app/falsk.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python学习/app/falsk.py" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/PythonFalskGit.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonFalskGit.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python学习/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Python学习/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python学习/app/SQL/consts.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python学习/app/SQL/consts.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python学习/app/sqlTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python学习/app/sqlTest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python学习/yieldTest.py" beforeDir="false" />
+>>>>>>> 54d8b9785e19c4b6f0d30a09ddebd2a489ad0cbd
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,22 +27,26 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/PythonFalskGit$user.coverage" NAME="user Coverage Results" MODIFIED="1535521712346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python学习/app" />
     <SUITE FILE_PATH="coverage/PythonFalskGit$2048auto.coverage" NAME="2048auto Coverage Results" MODIFIED="1535355307733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps" />
+    <SUITE FILE_PATH="coverage/PythonFalsk$Flask__Python_app_sqlTest_py_.coverage" NAME="Flask (Python学习/app/sqlTest.py) Coverage Results" MODIFIED="1536851866017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/PythonFalskGit$guessNumber.coverage" NAME="guessNumber Coverage Results" MODIFIED="1536654730738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python学习/app" />
     <SUITE FILE_PATH="coverage/PythonFalskGit$falsk__1_.coverage" NAME="falsk (1) Coverage Results" MODIFIED="1537868056313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python学习/app" />
     <SUITE FILE_PATH="coverage/PythonFalskGit$randomQuizGenerator.coverage" NAME="randomQuizGenerator Coverage Results" MODIFIED="1534907717783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python学习/app" />
     <SUITE FILE_PATH="coverage/PythonFalskGit$PythonFalskGit.coverage" NAME="PythonFalskGit Coverage Results" MODIFIED="1527152902980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/PythonFalskGit$Flask__Python_app_sqlTest_py_.coverage" NAME="Flask (Python学习/app/sqlTest.py) Coverage Results" MODIFIED="1536909363986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/PythonFalskGit$Flask__Python_app_sqlTest_py_.coverage" NAME="Flask (Python学习/app/sqlTest.py) Coverage Results" MODIFIED="1536738028378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/PythonFalskGit$user__1_.coverage" NAME="user (1) Coverage Results" MODIFIED="1535683906802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python学习/app/SQL" />
     <SUITE FILE_PATH="coverage/PythonFalskGit$falsk.coverage" NAME="falsk Coverage Results" MODIFIED="1534819594322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonFalskGit$webBeautifulSoup.coverage" NAME="webBeautifulSoup Coverage Results" MODIFIED="1535016738691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python学习/app" />
     <SUITE FILE_PATH="coverage/PythonFalskGit$users.coverage" NAME="users Coverage Results" MODIFIED="1536644954151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python学习/app/SQL" />
+<<<<<<< HEAD
     <SUITE FILE_PATH="coverage/PythonFalskGit$Thread.coverage" NAME="Thread Coverage Results" MODIFIED="1537868048965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python学习/app" />
+=======
+    <SUITE FILE_PATH="coverage/PythonFalskGit$Thread.coverage" NAME="Thread Coverage Results" MODIFIED="1535356797901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python学习/app" />
+>>>>>>> 54d8b9785e19c4b6f0d30a09ddebd2a489ad0cbd
     <SUITE FILE_PATH="coverage/PythonFalskGit$yieldTest.coverage" NAME="yieldTest Coverage Results" MODIFIED="1534821118237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python学习/app" />
     <SUITE FILE_PATH="coverage/PythonFalskGit$mapIt.coverage" NAME="mapIt Coverage Results" MODIFIED="1536635764227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python学习/app" />
     <SUITE FILE_PATH="coverage/PythonFalskGit$Flask__Python_app_user_py_.coverage" NAME="Flask (Python学习/app/user.py) Coverage Results" MODIFIED="1535512770430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
-    <SUITE FILE_PATH="coverage/PythonFalskGit$sqlTest.coverage" NAME="sqlTest Coverage Results" MODIFIED="1537166378130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python学习/app" />
+    <SUITE FILE_PATH="coverage/PythonFalskGit$sqlTest.coverage" NAME="sqlTest Coverage Results" MODIFIED="1536652673405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python学习/app" />
     <SUITE FILE_PATH="coverage/PythonFalskGit$sqlExample.coverage" NAME="sqlExample Coverage Results" MODIFIED="1535620911449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python学习/app/SQL" />
-    <SUITE FILE_PATH="coverage/PythonFalskGit$falskORM.coverage" NAME="falskORM Coverage Results" MODIFIED="1537168903891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python学习/app" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -48,9 +62,6 @@
     <expand />
     <select />
   </component>
-  <component name="FavoritesManager">
-    <favorites_list name="PythonFalskGit" />
-  </component>
   <component name="FileColors">
     <fileColor scope="All" color="000000" />
   </component>
@@ -59,12 +70,21 @@
       <file leaf-file-name="falsk.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python学习/app/falsk.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="241">
               <caret line="62" column="20" selection-start-line="62" selection-start-column="20" selection-end-line="62" selection-end-column="20" />
+=======
+            <state relative-caret-position="315">
+              <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+              <folding>
+                <element signature="e#22#44#0" expanded="true" />
+              </folding>
+>>>>>>> 54d8b9785e19c4b6f0d30a09ddebd2a489ad0cbd
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="JinjaModel.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Python学习/app/JinjaModel.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -88,19 +108,35 @@
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret column="16" selection-start-column="12" selection-end-column="16" />
+=======
+      <file leaf-file-name="guessNumber.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python学习/app/guessNumber.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
+>>>>>>> 54d8b9785e19c4b6f0d30a09ddebd2a489ad0cbd
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/flasky/app/templates/base.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-122">
               <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+=======
+      <file leaf-file-name="users.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Python学习/app/SQL/users.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+>>>>>>> 54d8b9785e19c4b6f0d30a09ddebd2a489ad0cbd
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="hello.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python学习/app/hello.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -115,10 +151,21 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="162">
               <caret line="9" selection-start-line="9" selection-end-line="9" />
+=======
+      <file leaf-file-name="sqlTest.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Python学习/app/sqlTest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="17" lean-forward="true" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+              <folding>
+                <element signature="e#27#90#0" expanded="true" />
+              </folding>
+>>>>>>> 54d8b9785e19c4b6f0d30a09ddebd2a489ad0cbd
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="compat.py" pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/venv/lib/python3.6/site-packages/sqlalchemy/util/compat.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -133,6 +180,13 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="414">
               <caret line="24" column="12" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
+=======
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/PycharmProjects/untitled/venv/lib/python3.6/site-packages/pymysql/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-37">
+              <caret line="107" column="18" lean-forward="true" selection-start-line="107" selection-start-column="18" selection-end-line="107" selection-end-column="18" />
+>>>>>>> 54d8b9785e19c4b6f0d30a09ddebd2a489ad0cbd
             </state>
           </provider>
         </entry>
@@ -140,8 +194,13 @@
       <file leaf-file-name="api.py" pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/venv/lib/python3.6/site-packages/sqlalchemy/ext/declarative/api.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="5004">
               <caret line="293" column="17" selection-start-line="293" selection-start-column="17" selection-end-line="293" selection-end-column="17" />
+=======
+            <state relative-caret-position="75">
+              <caret line="5" column="16" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="16" />
+>>>>>>> 54d8b9785e19c4b6f0d30a09ddebd2a489ad0cbd
             </state>
           </provider>
         </entry>
@@ -164,10 +223,13 @@
       <find>Manager</find>
       <find>SQLALCHEMY_DATABASE_URI</find>
       <find>SQLALCHEMY_BINDS</find>
+<<<<<<< HEAD
       <find>host</find>
       <find>database</find>
       <find>zhuzhu</find>
       <find>app_context</find>
+=======
+>>>>>>> 54d8b9785e19c4b6f0d30a09ddebd2a489ad0cbd
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -184,20 +246,25 @@
         <option value="$PROJECT_DIR$/Python学习/app/mapIt.py" />
         <option value="$PROJECT_DIR$/Python学习/app/webBeautifulSoup.py" />
         <option value="$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/2048auto.py" />
+        <option value="$PROJECT_DIR$/Python学习/app/Thread.py" />
         <option value="$PROJECT_DIR$/Python学习/app/user.py" />
         <option value="$PROJECT_DIR$/Python学习/app/SQL/sqlExample.py" />
         <option value="$PROJECT_DIR$/Python学习/app/SQL/user.py" />
         <option value="$PROJECT_DIR$/Python学习/app/SQL/ext.py" />
-        <option value="$USER_HOME$/venv/lib/python3.6/site-packages/pymysql/optionfile.py" />
+        <option value="$PROJECT_DIR$/Python学习/app/falsk.py" />
         <option value="$PROJECT_DIR$/Python学习/app/SQL/users.py" />
-        <option value="$PROJECT_DIR$/Python学习/app/sqlTest.py" />
+        <option value="$USER_HOME$/venv/lib/python3.6/site-packages/pymysql/optionfile.py" />
         <option value="$PROJECT_DIR$/Python学习/app/SQL/consts.py" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/Python学习/app/falskORM.py" />
         <option value="$PROJECT_DIR$/Python学习/app/Thread.py" />
         <option value="$PROJECT_DIR$/flasky/config.py" />
         <option value="$PROJECT_DIR$/Python学习/app/falsk.py" />
         <option value="$PROJECT_DIR$/Python学习/app/hello.py" />
         <option value="$PROJECT_DIR$/Python学习/app/JinjaModel.py" />
+=======
+        <option value="$PROJECT_DIR$/Python学习/app/sqlTest.py" />
+>>>>>>> 54d8b9785e19c4b6f0d30a09ddebd2a489ad0cbd
       </list>
     </option>
   </component>
@@ -217,6 +284,7 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
+<<<<<<< HEAD
     <option name="x" value="18" />
     <option name="y" value="23" />
     <option name="width" value="1280" />
@@ -237,6 +305,12 @@
         </selected-state>
       </profile-state>
     </entry>
+=======
+    <option name="x" value="228" />
+    <option name="y" value="23" />
+    <option name="width" value="1013" />
+    <option name="height" value="729" />
+>>>>>>> 54d8b9785e19c4b6f0d30a09ddebd2a489ad0cbd
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -246,20 +320,15 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="PythonFalskGit" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonFalskGit" type="462c0819:PsiDirectoryNode" />
+              <item name="PythonFalsk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonFalsk" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="PythonFalskGit" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PythonFalskGit" type="462c0819:PsiDirectoryNode" />
-              <item name="flask" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
+<<<<<<< HEAD
               <item name="PythonFalskGit" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonFalskGit" type="462c0819:PsiDirectoryNode" />
               <item name="flasky" type="462c0819:PsiDirectoryNode" />
@@ -279,8 +348,25 @@
               <item name="PythonFalskGit" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonFalskGit" type="462c0819:PsiDirectoryNode" />
               <item name="flasky-master" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="PythonFalsk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonFalsk" type="462c0819:PsiDirectoryNode" />
+              <item name="Python学习" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonFalsk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonFalsk" type="462c0819:PsiDirectoryNode" />
+              <item name="Python学习" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="PythonFalsk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonFalsk" type="462c0819:PsiDirectoryNode" />
+              <item name="Python学习" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 54d8b9785e19c4b6f0d30a09ddebd2a489ad0cbd
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+<<<<<<< HEAD
             <path>
               <item name="PythonFalskGit" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonFalskGit" type="462c0819:PsiDirectoryNode" />
@@ -292,19 +378,22 @@
               <item name="Python学习" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
             </path>
+=======
+>>>>>>> 54d8b9785e19c4b6f0d30a09ddebd2a489ad0cbd
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="CSS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -325,27 +414,13 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Python.falsk (1)">
     <configuration name="Thread" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonFalskGit" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python学习/app" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python学习/app/Thread.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+=======
+  <component name="RunManager" selected="Flask server.Flask (Python学习/app/sqlTest.py)">
     <configuration name="falsk (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> 54d8b9785e19c4b6f0d30a09ddebd2a489ad0cbd
       <module name="PythonFalskGit" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -364,7 +439,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="falskORM" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="guessNumber" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonFalskGit" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -377,7 +452,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python学习/app/falskORM.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python学习/app/guessNumber.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -397,6 +472,25 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python学习/app/sqlTest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="users" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonFalskGit" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python学习/app/SQL" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python学习/app/SQL/users.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -433,18 +527,26 @@
     <list>
       <item itemvalue="Flask server.PythonFalskGit" />
       <item itemvalue="Python.falsk (1)" />
+      <item itemvalue="Python.users" />
       <item itemvalue="Flask server.Flask (Python学习/app/sqlTest.py)" />
       <item itemvalue="Python.sqlTest" />
-      <item itemvalue="Python.falskORM" />
-      <item itemvalue="Python.Thread" />
+      <item itemvalue="Python.guessNumber" />
     </list>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Python.falsk (1)" />
         <item itemvalue="Python.Thread" />
         <item itemvalue="Python.falskORM" />
         <item itemvalue="Python.sqlTest" />
         <item itemvalue="Flask server.Flask (Python学习/app/sqlTest.py)" />
+=======
+        <item itemvalue="Flask server.Flask (Python学习/app/sqlTest.py)" />
+        <item itemvalue="Python.falsk (1)" />
+        <item itemvalue="Python.guessNumber" />
+        <item itemvalue="Python.sqlTest" />
+        <item itemvalue="Python.users" />
+>>>>>>> 54d8b9785e19c4b6f0d30a09ddebd2a489ad0cbd
       </list>
     </recent_temporary>
   </component>
@@ -471,23 +573,33 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="18" y="23" width="1280" height="729" extended-state="0" />
+=======
+    <frame x="228" y="23" width="1013" height="729" extended-state="0" />
+>>>>>>> 54d8b9785e19c4b6f0d30a09ddebd2a489ad0cbd
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49946752" weight="0.3299389" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.28466386" side_tool="true" weight="0.3910387" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.71533614" weight="0.3908046" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49840257" weight="0.3299389" />
       <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.6810437" weight="0.3299389" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.71533614" weight="0.33903134" />
       <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49361023" weight="0.23523422" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16962843" />
+=======
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49361023" weight="0.23523422" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.19052523" />
+>>>>>>> 54d8b9785e19c4b6f0d30a09ddebd2a489ad0cbd
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" weight="0.2172524" />
       <window_info anchor="right" id="SciView" order="3" weight="0.32960597" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" weight="0.32964823" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.6176784" weight="0.43482688" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.6176784" weight="0.43349755" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -498,6 +610,10 @@
     </layout>
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+<<<<<<< HEAD
+=======
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19052523" />
+>>>>>>> 54d8b9785e19c4b6f0d30a09ddebd2a489ad0cbd
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -507,9 +623,17 @@
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49946752" weight="0.3299389" />
+<<<<<<< HEAD
       <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.71533614" visible="true" weight="0.33910388" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.6176784" weight="0.43482688" />
+=======
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.71533614" visible="true" weight="0.3908046" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.6810437" weight="0.3299389" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.6176784" weight="0.43349755" />
+>>>>>>> 54d8b9785e19c4b6f0d30a09ddebd2a489ad0cbd
       <window_info anchor="right" id="Database" order="4" weight="0.2172524" />
       <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49361023" weight="0.23523422" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.28466386" side_tool="true" weight="0.3910387" />
@@ -535,7 +659,7 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="20" />
+      <option name="time" value="19" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
@@ -560,6 +684,51 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
+=======
+    <entry file="file://$PROJECT_DIR$/Python学习/app/capitalsquiz7.txt" />
+    <entry file="file://$PROJECT_DIR$/Python学习/app/capitalsquiz_answers5.txt" />
+    <entry file="file://$PROJECT_DIR$/Python学习/app/capitalsquiz_answers2.txt" />
+    <entry file="file://$PROJECT_DIR$/Python学习/app/capitalsquiz35.txt" />
+    <entry file="file://$PROJECT_DIR$/Python学习/app/capitalsquiz29.txt" />
+    <entry file="file://$PROJECT_DIR$/Python学习/抓取Web内容">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python学习/Web知识">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python学习/app/Mako0.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/venv/PythonProjects/lib/python3.6/site-packages/werkzeug/serving.py" />
+    <entry file="file:///usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/lib/python3.6/webbrowser.py" />
+    <entry file="file://$USER_HOME$/venv/PythonProjects/lib/python3.6/site-packages/bs4/__init__.py" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python学习/app/APITest.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python学习/app/randomQuizGenerator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/2048auto.py" />
+    <entry file="file://$PROJECT_DIR$/Python学习/app/webBeautifulSoup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+>>>>>>> 54d8b9785e19c4b6f0d30a09ddebd2a489ad0cbd
     <entry file="file://$PROJECT_DIR$/Python学习/Python3 学习记录">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -568,13 +737,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Python学习/app/user.py" />
     <entry file="file://$PROJECT_DIR$/Python学习/app/SQL/user.py" />
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.1/python_stubs/1783913037/time.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
-          <caret line="96" column="4" selection-start-line="96" selection-start-column="4" selection-end-line="96" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.1/python_stubs/1783913037/time.py" />
     <entry file="file:///usr/local/Cellar/python/3.6.5/Frameworks/Python.framework/Versions/3.6/lib/python3.6/codecs.py" />
     <entry file="file://$PROJECT_DIR$/Python学习/app/SQL/sqlExample.py" />
     <entry file="file://$USER_HOME$/venv/PythonProjects/lib/python3.6/site-packages/flask/helpers.py" />
@@ -603,63 +766,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/venv/lib/python3.6/site-packages/flask_sqlalchemy/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3">
-          <caret line="761" selection-start-line="761" selection-end-line="761" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/venv/lib/python3.6/site-packages/sqlalchemy/dialects/mysql/mysqldb.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="101" selection-start-line="101" selection-end-line="101" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/codecs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="308" selection-start-line="308" selection-end-line="308" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/markupsafe/__init__.py" />
-    <entry file="file://$USER_HOME$/venv/lib/python3.6/site-packages/sqlalchemy/engine/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2052">
-          <caret line="153" column="26" selection-start-line="153" selection-start-column="26" selection-end-line="153" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/venv/lib/python3.6/site-packages/MySQLdb/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="29" column="40" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/venv/lib/python3.6/site-packages/pymysql/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1728">
-          <caret line="107" selection-start-line="107" selection-end-line="107" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/venv/lib/python3.6/site-packages/pymysql/connections.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="482" column="8" selection-start-line="482" selection-start-column="8" selection-end-line="482" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/venv/lib/python3.6/site-packages/pymysql/optionfile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/venv/lib/python3.6/site-packages/flask_sqlalchemy/__init__.py" />
+    <entry file="file://$USER_HOME$/venv/lib/python3.6/site-packages/flask/app.py" />
+    <entry file="file://$USER_HOME$/venv/lib/python3.6/site-packages/sqlalchemy/dialects/mysql/mysqldb.py" />
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/codecs.py" />
     <entry file="file://$PROJECT_DIR$/Python学习/app/SQL/ext.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
@@ -667,74 +777,60 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Python学习/app/Thread.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="28" column="49" selection-start-line="28" selection-start-column="49" selection-end-line="28" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/markupsafe/__init__.py" />
+    <entry file="file://$USER_HOME$/venv/lib/python3.6/site-packages/sqlalchemy/__init__.py" />
+    <entry file="file://$USER_HOME$/venv/lib/python3.6/site-packages/sqlalchemy/engine/__init__.py" />
+    <entry file="file://$USER_HOME$/venv/lib/python3.6/site-packages/MySQLdb/__init__.py" />
     <entry file="file://$PROJECT_DIR$/Python学习/app/guessNumber.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
+        <state relative-caret-position="330">
           <caret line="24" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/venv/lib/python3.6/site-packages/flask/app.py">
+    <entry file="file://$PROJECT_DIR$/Python学习/app/falsk.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="63" column="25" selection-start-line="63" selection-start-column="17" selection-end-line="63" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python学习/app/APITest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="21" column="16" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/venv/lib/python3.6/site-packages/sqlalchemy/sql/expression.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="65" column="17" lean-forward="true" selection-start-line="65" selection-start-column="17" selection-end-line="65" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/venv/lib/python3.6/site-packages/sqlalchemy/util/langhelpers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="147" column="4" selection-start-line="147" selection-start-column="4" selection-end-line="147" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/venv/lib/python3.6/site-packages/flask_mysqldb/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="558">
           <caret line="31" column="54" lean-forward="true" selection-start-line="31" selection-start-column="54" selection-end-line="31" selection-end-column="54" />
+=======
+        <state relative-caret-position="315">
+          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+          <folding>
+            <element signature="e#22#44#0" expanded="true" />
+          </folding>
+>>>>>>> 54d8b9785e19c4b6f0d30a09ddebd2a489ad0cbd
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/venv/lib/python3.6/site-packages/flask_mysqldb/__init__.py" />
+    <entry file="file://$USER_HOME$/venv/lib/python3.6/site-packages/pymysql/optionfile.py" />
+    <entry file="file://$USER_HOME$/venv/lib/python3.6/site-packages/pymysql/connections.py" />
+    <entry file="file://$USER_HOME$/venv/lib/python3.6/site-packages/pymysql/__init__.py" />
     <entry file="file://$PROJECT_DIR$/Python学习/app/SQL/users.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/venv/lib/python3.6/site-packages/sqlalchemy/ext/declarative/__init__.py">
+    <entry file="file://$USER_HOME$/PycharmProjects/untitled/venv/lib/python3.6/site-packages/pymysql/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" selection-start-line="13" selection-end-line="17" selection-end-column="32" />
+        <state relative-caret-position="-37">
+          <caret line="107" column="18" lean-forward="true" selection-start-line="107" selection-start-column="18" selection-end-line="107" selection-end-column="18" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/venv/lib/python3.6/site-packages/sqlalchemy/ext/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/venv/lib/python3.6/site-packages/sqlalchemy/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Python学习/app/SQL/consts.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="234">
           <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
         </state>
@@ -744,11 +840,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5346">
           <caret line="300" column="39" selection-start-line="300" selection-start-column="39" selection-end-line="300" selection-end-column="39" />
+=======
+        <state relative-caret-position="75">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="16" />
+>>>>>>> 54d8b9785e19c4b6f0d30a09ddebd2a489ad0cbd
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Python学习/app/sqlTest.py">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="72">
           <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="97" />
         </state>
@@ -845,5 +946,15 @@
         </state>
       </provider>
     </entry>
+=======
+        <state relative-caret-position="345">
+          <caret line="23" column="17" lean-forward="true" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+          <folding>
+            <element signature="e#27#90#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+>>>>>>> 54d8b9785e19c4b6f0d30a09ddebd2a489ad0cbd
   </component>
 </project>
