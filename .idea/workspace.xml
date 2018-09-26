@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df27b863-579a-48a0-b4c3-f060a86f0aee" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/PythonFalskGit.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonFalskGit.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python学习/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Python学习/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python学习/app/SQL/consts.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python学习/app/SQL/consts.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python学习/app/sqlTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python学习/app/sqlTest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python学习/yieldTest.py" beforeDir="false" />
-    </list>
+    <list default="true" id="df27b863-579a-48a0-b4c3-f060a86f0aee" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +51,7 @@
       <file leaf-file-name="falsk.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Python学习/app/falsk.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
+            <state relative-caret-position="270">
               <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
               <folding>
                 <element signature="e#22#44#0" expanded="true" />
@@ -89,8 +81,8 @@
       <file leaf-file-name="sqlTest.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Python学习/app/sqlTest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="17" lean-forward="true" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+            <state relative-caret-position="375">
+              <caret line="25" column="20" lean-forward="true" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
               <folding>
                 <element signature="e#27#90#0" expanded="true" />
               </folding>
@@ -101,8 +93,8 @@
       <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/PycharmProjects/untitled/venv/lib/python3.6/site-packages/pymysql/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-37">
-              <caret line="107" column="18" lean-forward="true" selection-start-line="107" selection-start-column="18" selection-end-line="107" selection-end-column="18" />
+            <state relative-caret-position="1440">
+              <caret line="107" column="18" selection-start-line="107" selection-start-column="18" selection-end-line="107" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -230,7 +222,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -403,17 +395,17 @@
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49946752" weight="0.3299389" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.28466386" side_tool="true" weight="0.3910387" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.71533614" weight="0.3908046" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49840257" weight="0.3299389" />
       <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.6810437" weight="0.3299389" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.71533614" weight="0.3908046" />
       <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49361023" weight="0.23523422" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.19052523" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" weight="0.2172524" />
       <window_info anchor="right" id="SciView" order="3" weight="0.32960597" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.6176784" weight="0.43349755" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.6176784" weight="0.43349755" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -423,27 +415,27 @@
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
     <layout-to-restore>
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19052523" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49840257" weight="0.3299389" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" weight="0.32960597" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.71533614" visible="true" weight="0.3908046" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19052523" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49946752" weight="0.3299389" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.71533614" visible="true" weight="0.3908046" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.6810437" weight="0.3299389" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.6176784" weight="0.43349755" />
       <window_info anchor="right" id="Database" order="4" weight="0.2172524" />
       <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49361023" weight="0.23523422" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.28466386" side_tool="true" weight="0.3910387" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49840257" weight="0.3299389" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32960597" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.6810437" weight="0.3299389" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -596,7 +588,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Python学习/app/falsk.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
+        <state relative-caret-position="270">
           <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
           <folding>
             <element signature="e#22#44#0" expanded="true" />
@@ -617,8 +609,8 @@
     </entry>
     <entry file="file://$USER_HOME$/PycharmProjects/untitled/venv/lib/python3.6/site-packages/pymysql/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-37">
-          <caret line="107" column="18" lean-forward="true" selection-start-line="107" selection-start-column="18" selection-end-line="107" selection-end-column="18" />
+        <state relative-caret-position="1440">
+          <caret line="107" column="18" selection-start-line="107" selection-start-column="18" selection-end-line="107" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -631,8 +623,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Python学习/app/sqlTest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="17" lean-forward="true" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+        <state relative-caret-position="375">
+          <caret line="25" column="20" lean-forward="true" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
           <folding>
             <element signature="e#27#90#0" expanded="true" />
           </folding>
